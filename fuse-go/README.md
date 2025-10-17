@@ -5,7 +5,7 @@ This is a simple FUSE filesystem implemented in Go using the low-level `libfuse`
 ## Prerequisites
 
 - Go 1.18 or later
-- `libfuse-dev` package (or equivalent for your distribution)
+- `libfuse-dev` package (or equivalent for your distribution). This project is intended to be built against `libfuse` version 2.9.
 
 ## Building
 
